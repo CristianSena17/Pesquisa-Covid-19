@@ -12,17 +12,3 @@ O projeto consiste em um sistema de pesquisa na memória principal sobre dados d
 Através de um menu o sistema possibilita a escolha da consulta a ser realizada. Cada consulta acompanha resultados de tempo e custo computacional de sua execução.
 
 A base de dados utilizada é disponibilizada pelo governo federal no endereço: https://covid.saude.gov.br/
-
-A tabela abaixo informa o tipo de pesquisa e sua respectiva consulta:
-
-|            Tipo de Pesquisa            |  Consulta Realizada  |
-|:--------------------------------------:|:--------------------:|
-| Pesquisa Sequencial                    | Consulta sobre ...   |
-| Pesquisa Binária                       | ...                  |
-| Árvore de Pesquisa Binária             | ...                  |
-| Árvore de Pesquisa Binária Balanceada  | ...                  |
-| Tabelas Hash                           | ...                  |
-
-## Desenvolvimento:
-
-## Conclusão:
